@@ -16,7 +16,7 @@ System.out.println(a+" a is Greater");
 else 
 System.out.println(b+" b is Greater"); 
 } 
-max(long a, long b) 
+void max(long a, long b) 
 { 
 System.out.println("\nmax method with long arg invoked"); 
 if(a>b) 
